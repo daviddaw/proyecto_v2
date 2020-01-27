@@ -1,0 +1,19 @@
+body{
+	background: -webkit-linear-gradient(0deg, #ffd46e 20%, #4e9aff 100%);
+}
+
+footer{
+	font-family: Verdana;
+	color:#0012fc;
+	text-align: center;
+}
+
+#logo{
+	text-align: center;
+}
+
+#nube{
+	float: right;
+	margin-top: 160px;
+	margin-right: 0px;
+}
